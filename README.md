@@ -1,33 +1,52 @@
-# Hi there, I'm Febianus Felix W 👋
+# Hi there! I'm Febianus Felix W 👋
 
-I'm a data enthusiast with a solid foundation in data analytics, machine learning, and data visualization, specializing in Python, SQL, and Tableau. Currently an Information Systems undergraduate with a concentration in Big Data Analytics, I'm passionate about transforming data into actionable insights that drive business growth and innovation.
+🎯 **Data Enthusiast | Machine Learning Aficionado | Problem Solver**
 
-- 👀 **Interests**: Data analytics, machine learning, predictive modeling, data visualization, and AI prompting.
-- 🌱 **Currently Learning**: Advanced data science techniques, generative AI, and expanding my understanding of data-driven strategies.
-- 💼 **Open to Collaborate on**: Data-focused projects in predictive analytics, classification models, and data visualization.
-- 📫 **Contact Me**:
-  - **Email**: febianusfelix100@gmail.com
-  - **LinkedIn**: [Febianus Felix Widisulistyo](https://www.linkedin.com/in/febianusfelixwidisulistyo/)
-- 😄 **Pronouns**: He/Him
-- ⚡ **Fun Fact**: I love exploring new data tools and technologies and am always eager to learn something new!
+I'm a data enthusiast with a knack for uncovering insights and building solutions that drive business impact. With hands-on experience in data analytics, machine learning, and data visualization, I am passionate about turning data into actionable strategies. Currently pursuing a degree in Information Systems with a focus on Big Data Analytics, I'm always eager to explore new challenges where data plays a central role.
 
 ---
 
-## GitHub Repositories Highlights in Data Analysis
+## 🌍 About Me
 
-Here are some key projects in data analysis and machine learning, demonstrating my skills in data-driven problem-solving:
-
-- **[BankCampaign-Optimization](https://github.com/FebianFelix/BankCampaign-Optimization)**: Optimized direct marketing campaigns for a financial institution using classification models (Neural Network, SVM, and Decision Trees) to enhance customer targeting, increasing conversion rates and return on investment.
-
-- **[DataModeling_IndianHouseRentRegression](https://github.com/FebianFelix/DataModeling_IndianHouseRentRegression)**: Developed predictive models for house rental prices across major Indian cities using Linear and Lasso Regression, and deployed a Flask application for real-time predictions.
-
-- **[Bank Churn Analysis using Tableau](https://github.com/FebianFelix/BankChurnAnalysis)**: Visualized and analyzed factors contributing to customer churn in the credit card sector, enabling data-driven retention strategies and supporting targeted marketing efforts.
-
-In addition to these data-centric projects, I have also explored other areas, including web development and application deployment, using frameworks like Laravel and Flask. 
+- 📊 **Analytical by Nature**: Skilled in data analytics, predictive modeling, and business intelligence.
+- 🚀 **Currently Learning**: Advancing my knowledge in generative AI and deepening my expertise in end-to-end machine learning.
+- 🤝 **Open to Collaborate**: Passionate about projects in predictive analytics, customer insights, and data visualization.
+- ✉️ **Contact Me**: Reach out to me at [febianusfelix100@gmail.com](mailto:febianusfelix100@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/febianusfelixwidisulistyo/).
 
 ---
 
-### Skills
+## 🚀 Featured Projects
 
-- **Technical**: Python (Pandas, NumPy, Scikit-Learn), SQL, Tableau, SAS Visual Analytics, Jupyter Notebook, and more.
-- **Soft Skills**: Project Management, Strategic Planning, Problem Solving, and Adaptability.
+Here’s a quick overview of some exciting data analysis projects I’ve worked on! Check them out:
+
+### 📈 BankCampaign-Optimization
+> **[Repo Link](https://github.com/FebianFelix/BankCampaign-Optimization)**  
+Using classification models like Neural Networks, SVM, and Decision Trees, this project aims to enhance customer targeting in a financial institution's marketing campaigns. Resulted in improved conversion rates and a more targeted marketing approach.
+
+### 🏠 DataModeling_IndianHouseRentRegression
+> **[Repo Link](https://github.com/FebianFelix/DataModeling_IndianHouseRentRegression)**  
+A predictive model for estimating rental prices across Indian cities. Leveraging Linear and Lasso Regression, this model offers real-time rental estimates, deployed through a Flask application for on-demand predictions.
+
+### 📊 Bank Churn Analysis using Tableau
+> **[Repo Link](https://github.com/FebianFelix/BankChurnAnalysis)**  
+Developed an interactive Tableau dashboard to analyze customer churn in the credit card sector, enabling targeted strategies for customer retention and risk mitigation.
+
+#### ✨ Additional Projects
+Beyond data, I explore other tech areas, including web development with Laravel and Flask, showcasing versatility and adaptability across projects!
+
+---
+
+## ⚙️ Technical Toolbox
+
+Here are some tools and technologies I frequently use:
+
+- **Languages & Libraries**: Python (Pandas, NumPy, Scikit-Learn), SQL, R
+- **Data Visualization**: Tableau, SAS Visual Analytics, Matplotlib, Seaborn
+- **Web Development**: Flask, Laravel
+- **Soft Skills**: Project Management, Strategic Planning, Problem Solving
+
+---
+
+## 🌟 Fun Fact
+
+Did you know? When I’m not wrangling data, you can find me exploring new tech tools, learning about AI advancements, or experimenting with visualizations that turn complex data into simple insights.
