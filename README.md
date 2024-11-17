@@ -29,7 +29,7 @@ Here’s a glimpse into some of the data projects I'm proud of. These highlight 
 **Solution**: Created a powerful regression model using Python’s Linear and Lasso Regression, deployed via Flask for real-time rental predictions in India's bustling rental market.
 
 ### 🔹 Bank Churn Analysis using Tableau
-> **[Check it Out!](https://github.com/FebianFelix/BankChurnAnalysis)**  
+> **[Check it Out!](https://github.com/FebianFelix/BankChurnAnalysis_VisualizationTableau)**  
 **Goal**: Minimize customer churn for a bank’s credit card division  
 **Solution**: Designed an interactive Tableau dashboard to visualize churn patterns and empower data-driven retention strategies, supporting marketing and risk teams with actionable insights.
 
